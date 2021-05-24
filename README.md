@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jinxb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
  ### Hi there JINXB.👋
- 
  👨‍🎓<strong>About</strong>: 22 Years old Developer from China.
  
  👨‍💻<strong>Languages</strong>: Html,Css,JavaScript,Vue,Node,Java

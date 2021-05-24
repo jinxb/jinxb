@@ -2,7 +2,7 @@
   <h2>Hi there JINXB.👋</h2>
 - 👨‍🎓<strong>About</strong>: 22 Years old Developer from China.
  
-- 👨‍💻<strong>Languages</strong>: Html,Css,JavaScript,Vue,Node.js,Java
+- 👨‍💻<strong>Languages</strong>: Html,Css,JavaScript,Vue,Node,Java
  
 - 🌱I’m currently learning React...
 <!--

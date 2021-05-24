@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jinxb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 ### Hi there JINXB.👋
-👨‍🎓<strong>About</strong>: 22 Years old Developer from China.
-👨‍💻<strong>Languages</strong>: Html,Css,JavaScript,Vue,Node.js,Java
+👨‍🎓<strong>About</strong>: 22 Years old Developer from China.<br/>
+👨‍💻<strong>Languages</strong>: Html,Css,JavaScript,Vue,Node.js,Java<br/>
 🌱I’m currently learning React...
 <!--
 **jinxb/jinxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

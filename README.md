@@ -5,7 +5,7 @@
  
  👨‍💻<strong>Languages</strong>: Html,Css,JavaScript,Vue,Node
  
- 🌱I’m currently learning React........我i笑了
+ 🌱I’m currently learning React...
 <!--
 **jinxb/jinxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
